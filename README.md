@@ -31,3 +31,4 @@ Criando Classes e Objetos.
 # Aula 03
 
 O que é a visibilidade de um Objeto?
+Configurando Visibilidade de atríbutos e métodos.
