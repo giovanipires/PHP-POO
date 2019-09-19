@@ -17,3 +17,17 @@ GAFANHOTOS: http://apoie.me/cursoemvideo
 
 Ask Rufus de Audionautix está licenciada sob uma licença Creative Commons Attribution (https://creativecommons.org/licenses/...)
 Artista: http://audionautix.com/
+
+# Aula 01
+
+O que é programação orientada a objetos?
+Instalação dos pré-requisitos.
+
+# Aula 02
+
+O que é um objeto?
+Criando Classes e Objetos.
+
+# Aula 03
+
+O que é a visibilidade de um Objeto?
