@@ -32,3 +32,8 @@ Criando Classes e Objetos.
 
 O que é a visibilidade de um Objeto?
 Configurando Visibilidade de atríbutos e métodos.
+
+# Aula 04
+
+Métodos especiais.
+Métodos getter, setter e construtor
